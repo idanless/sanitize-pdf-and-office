@@ -1,4 +1,4 @@
-<h1>CDR (Cyber Data Removal) System</h1>
+![image](https://github.com/idanless/sanitize-pdf-and-office/assets/31201417/8c7f920b-ea3f-42a8-a6f2-1c9c5922c3d1)![image](https://github.com/idanless/sanitize-pdf-and-office/assets/31201417/4b80fbce-6659-4f8e-85de-592f9a178aa4)<h1>CDR (Cyber Data Removal) System</h1>
 
 <p>The CDR (Cyber Data Removal) system is a comprehensive solution designed to enhance the security of Office documents and PDF files. It offers a wide range of features to safeguard your files from potential security risks.</p>
 
@@ -53,12 +53,13 @@ pip install psutil pywin32 PyPDF2 pdf2image
 <h2>Examples:</h2>
 
 <h3>Example 1: Link Removal in Office Document</h3>
-<img src="example1.png" alt="Example 1">
+<img src="https://github.com/idanless/sanitize-pdf-and-office/blob/main/CDRIMG/remove%20link.jpeg?raw=true" alt="Example 1">
 
 <h3>Example 2: Binary File Conversion in Office Document</h3>
 <img src="https://github.com/idanless/sanitize-pdf-and-office/blob/main/CDRIMG/HideFileWord.jpeg?raw=true" alt="Example 2">
 
 <h3>Example 3: PDF Attachment Removal</h3>
-<img src="example3.png" alt="Example 3">
+<img src="https://github.com/idanless/sanitize-pdf-and-office/blob/main/CDRIMG/remove%20file%20from%20pdf.jpeg?raw=true" alt="Example 3">
 
-<h3>Example 4:
+<h3>Example 4: PDF Remove link</h3>
+<img src="https://github.com/idanless/sanitize-pdf-and-office/blob/main/CDRIMG/pdf%20change%20link.jpeg?raw=true" alt="Example 4">
