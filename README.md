@@ -1,40 +1,39 @@
 <h1>CDR (Cyber Data Removal) System</h1>
 
-<p>The CDR (Cyber Data Removal) system is a powerful solution designed to protect PDF and Office files from malware, malicious macros, and harmful links. It ensures the safety and integrity of your files by removing potential security risks.</p>
+<p>The CDR (Cyber Data Removal) system is a comprehensive solution designed to enhance the security of Office documents and PDF files. It offers a wide range of features to safeguard your files from potential security risks.</p>
 
-<h2>Why CDR is Essential for PDF and Office Files?</h2>
-
-<p>CDR is essential for PDF and Office files to mitigate the risks associated with malware, malicious macros, and harmful links. Here are the key reasons why CDR is crucial in this context:</p>
+<h2>Features of CDR System:</h2>
 
 <ul>
-  <li><strong>Mitigating Malware:</strong> CDR scans PDF and Office files to identify and remove any embedded or hidden malware that could compromise the security of your system.</li>
-  <li><strong>Eliminating Malicious Macros:</strong> CDR detects and removes malicious macros present in Office files, preventing unauthorized execution of potentially harmful code.</li>
-  <li><strong>Blocking Harmful Links:</strong> CDR identifies and removes harmful links embedded within PDF and Office files, protecting users from phishing attacks or accessing malicious websites.</li>
+  <li><strong>Link Removal:</strong> The CDR system detects and removes embedded links from Office documents and PDF files, preventing users from accessing potentially harmful websites or downloading malicious content.</li>
+  <li><strong>Binary File Conversion:</strong> CDR converts binary files within Office documents to their corresponding values, ensuring that any hidden or malicious code is eliminated.</li>
+  <li><strong>PDF Attachment Removal:</strong> The system scans PDF files for attached files or documents and removes them to eliminate any potential security threats.</li>
+  <li><strong>Full CDR Conversion:</strong> CDR converts PDF files to bitmap images, ensuring that the content is displayed as an image rather than text. This prevents any potential risks associated with malicious PDF content.</li>
 </ul>
 
-<h2>How CDR Protects PDF and Office Files?</h2>
+<h2>CDR System for Office Documents:</h2>
 
-<p>The CDR system employs advanced techniques to ensure the protection of PDF and Office files from malware, malicious macros, and harmful links. Here's how it works:</p>
+<p>The CDR system offers advanced protection for Office documents, focusing on link removal, binary file conversion, and comprehensive security checks. Here's how it works:</p>
 
 <ul>
-  <li><strong>Malware Detection:</strong> CDR uses sophisticated algorithms to scan PDF and Office files for known malware signatures and suspicious behavior, allowing it to identify and remove any infected files.</li>
-  <li><strong>Macro Analysis:</strong> CDR analyzes macros embedded in Office files and determines their intentions. It can identify and remove malicious macros to prevent potential security breaches.</li>
-  <li><strong>Link Verification:</strong> CDR checks embedded links within PDF and Office files for potential threats. It verifies the URLs and removes any links that lead to malicious or unauthorized websites.</li>
+  <li><strong>Link Removal:</strong> The system scans Office documents for embedded links and removes them, preventing users from accidentally clicking on malicious URLs.</li>
+  <li><strong>Binary File Conversion:</strong> CDR converts binary files within Office documents to their corresponding values, removing any hidden or potentially malicious code.</li>
+  <li><strong>Enhanced Security Checks:</strong> The system performs extensive security checks on Office documents, ensuring that they are free from malware, malicious macros, and other security threats.</li>
 </ul>
 
-<h2>Examples</h2>
+<h2>CDR System for PDF Files:</h2>
 
-<p>Here are some examples of how the CDR system protects against malware, malicious macros, and harmful links in PDF and Office files:</p>
+<p>When it comes to PDF files, the CDR system offers comprehensive protection through link removal, attachment removal, and full CDR conversion. Here are the key features:</p>
 
-<img src="example1.png" alt="Example 1" width="500">
-<p>Example 1: Removal of a PDF file containing embedded malware.</p>
+<ul>
+  <li><strong>Link Removal:</strong> The system scans PDF files for embedded links and removes them, ensuring users do not access potentially harmful websites.</li>
+  <li><strong>Attachment Removal:</strong> CDR identifies and removes any attached files or documents within PDF files to eliminate potential security risks.</li>
+  <li><strong>Full CDR Conversion:</strong> PDF files are converted to bitmap images, preventing any potential risks associated with text-based PDF content.</li>
+</ul>
 
-<img src="example2.png" alt="Example 2" width="500">
-<p>Example 2: Detection and removal of a malicious macro in an Office document.</p>
+<h2>Pip Requirements:</h2>
 
-<h2>Pip Requirements</h2>
-
-<p>To run the CDR system for PDF and Office files, ensure that you have the following Python packages installed in your environment:</p>
+<p>To run the CDR system for Office documents and PDF files, ensure that you have the following Python packages installed:</p>
 
 <pre>
 psutil
@@ -49,4 +48,4 @@ pdf2image
 pip install psutil pywin32 PyPDF2 pdf2image
 </pre>
 
-<p>Make sure to install these dependencies before running the CDR system for PDF and Office files.</p>
+<p>Make sure to install these dependencies before running the CDR system for Office documents and PDF files.</p>
