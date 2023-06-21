@@ -49,3 +49,16 @@ pip install psutil pywin32 PyPDF2 pdf2image
 </pre>
 
 <p>Make sure to install these dependencies before running the CDR system for Office documents and PDF files.</p>
+
+<h2>Examples:</h2>
+
+<h3>Example 1: Link Removal in Office Document</h3>
+<img src="example1.png" alt="Example 1">
+
+<h3>Example 2: Binary File Conversion in Office Document</h3>
+<img src="example2.png" alt="Example 2">
+
+<h3>Example 3: PDF Attachment Removal</h3>
+<img src="example3.png" alt="Example 3">
+
+<h3>Example 4:
