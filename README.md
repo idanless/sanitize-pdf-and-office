@@ -1,4 +1,4 @@
-![image](https://github.com/idanless/sanitize-pdf-and-office/assets/31201417/8c7f920b-ea3f-42a8-a6f2-1c9c5922c3d1)![image](https://github.com/idanless/sanitize-pdf-and-office/assets/31201417/4b80fbce-6659-4f8e-85de-592f9a178aa4)<h1>CDR (Cyber Data Removal) System</h1>
+<h1>CDR (Cyber Data Removal) System</h1>
 
 <p>The CDR (Cyber Data Removal) system is a comprehensive solution designed to enhance the security of Office documents and PDF files. It offers a wide range of features to safeguard your files from potential security risks.</p>
 
