@@ -56,7 +56,7 @@ pip install psutil pywin32 PyPDF2 pdf2image
 <img src="example1.png" alt="Example 1">
 
 <h3>Example 2: Binary File Conversion in Office Document</h3>
-<img src="example2.png" alt="Example 2">
+<img src="https://github.com/idanless/sanitize-pdf-and-office/blob/main/CDRIMG/HideFileWord.jpeg?raw=true" alt="Example 2">
 
 <h3>Example 3: PDF Attachment Removal</h3>
 <img src="example3.png" alt="Example 3">
