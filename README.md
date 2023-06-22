@@ -13,13 +13,15 @@
 
 <h2>CDR System for Office Documents:</h2>
 
-<p>The CDR system offers advanced protection for Office documents, focusing on link removal, binary file conversion, and comprehensive security checks. Here's how it works:</p>
+<p>The CDR system offers advanced protection for Office documents, focusing on link removal, binary file conversion, comprehensive security checks, and macro removal. Here's how it works:</p>
 
 <ul>
   <li><strong>Link Removal:</strong> The system scans Office documents for embedded links and removes them, preventing users from accidentally clicking on malicious URLs.</li>
   <li><strong>Binary File Conversion:</strong> CDR converts binary files within Office documents to their corresponding values, removing any hidden or potentially malicious code.</li>
   <li><strong>Enhanced Security Checks:</strong> The system performs extensive security checks on Office documents, ensuring that they are free from malware, malicious macros, and other security threats.</li>
+  <li><strong>Macro Removal:</strong> The system also offers the option to remove macros from Office documents, mitigating the risks associated with potential macro-based vulnerabilities.</li>
 </ul>
+
 
 <h2>CDR System for PDF Files:</h2>
 
@@ -40,6 +42,8 @@ psutil
 pywin32
 PyPDF2
 pdf2image
+xlutils
+xlrd
 </pre>
 
 <p>You can install these packages using pip:</p>
