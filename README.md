@@ -49,7 +49,7 @@ xlrd
 <p>You can install these packages using pip:</p>
 
 <pre>
-pip install psutil pywin32 PyPDF2 pdf2image
+pip install psutil pywin32 PyPDF2 pdf2image etc...
 </pre>
 
 <p>Make sure to install these dependencies before running the CDR system for Office documents and PDF files.</p>
