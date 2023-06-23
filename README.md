@@ -46,6 +46,11 @@ xlutils
 xlrd
 </pre>
 
+<pre>
+office 2009 and above
+</pre>
+
+
 <p>You can install these packages using pip:</p>
 
 <pre>
