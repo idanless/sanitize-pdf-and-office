@@ -87,3 +87,7 @@ pip install psutil pywin32 PyPDF2 pdf2image etc...
 
 <h3>Example 4: PDF Remove link</h3>
 <img src="https://github.com/idanless/sanitize-pdf-and-office/blob/main/CDRIMG/pdf%20change%20link.jpeg?raw=true" alt="Example 4">
+
+<h3>Example 5: Excel Formula to Text</h3>
+<img src="https://github.com/idanless/sanitize-pdf-and-office/blob/main/CDRIMG/excel%20formula.jpeg?raw=true" alt="Example 4">
+
