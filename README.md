@@ -58,7 +58,7 @@ pip install psutil pywin32 PyPDF2 pdf2image etc...
 <ul>
   <li><strong>pdf minimal:</strong> Link Removal/Attachment Removal</li>
   <li><strong>PDF Full:</strong> PDF files are converted to bitmap images, preventing any potential risks associated with text-based PDF content.</li>
-  li><strong>office :</strong> refer to CDR System for Office Documents</li>
+  <li><strong>office :</strong> refer to CDR System for Office Documents</li>
 </ul>
 
 <h3>GUI POC</h3>
