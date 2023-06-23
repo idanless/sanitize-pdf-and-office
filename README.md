@@ -54,6 +54,20 @@ pip install psutil pywin32 PyPDF2 pdf2image etc...
 
 <p>Make sure to install these dependencies before running the CDR system for Office documents and PDF files.</p>
 
+<h2>Poc Gui to test:</h2>
+<ul>
+  <li><strong>pdf minimal:</strong> Link Removal/Attachment Removal</li>
+  <li><strong>PDF Full:</strong> PDF files are converted to bitmap images, preventing any potential risks associated with text-based PDF content.</li>
+</ul>
+
+<h3>GUI POC</h3>
+<img src="https://github.com/idanless/sanitize-pdf-and-office/blob/main/CDRIMG/cdrgui.JPG?raw=true" alt="Example 1">
+
+<h3>Download Here:</h3>
+<a href="https://drive.google.com/file/d/1WAy-75j08jtzHIfCJ9XPkfktGjnYLR-0/view?usp=sharing" download>Click here to download</a>
+
+
+
 <h2>Examples:</h2>
 
 <h3>Example 1: Link Removal in Office Document</h3>
