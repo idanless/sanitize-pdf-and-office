@@ -70,7 +70,7 @@ pip install psutil pywin32 PyPDF2 pdf2image etc...
 <img src="https://github.com/idanless/sanitize-pdf-and-office/blob/main/CDRIMG/cdrgui.JPG?raw=true" alt="Example 1">
 
 <h3>Download Here:</h3>
-<a href="https://drive.google.com/file/d/1BVr-dawdZPmKHFESxAKjeHxkfpNgZcnP/view?usp=sharing" download>Click here to download</a>
+<a href="https://drive.google.com/file/d/1asZF0RkBE3LuaenJDwFfg9G311Dulr5Z/view?usp=sharing" download>Click here to download</a>
 
 
 
